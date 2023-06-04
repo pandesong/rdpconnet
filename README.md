@@ -13,3 +13,7 @@ windows/ssh 远程，统一方便管理，在 windows 10下可以正常运行
 6、2023年6月17日到期，有更新时会后延
 
 东拼西凑可以用，不会收集个人信息，支持1-2个连接(打开一个连接后关闭，需重新打开软件)，需要更多连接及功能可以赞赏购买qq:896420681，抖音号:71250580304
+下载地址：
+
+https://gitee.com/tianniao2020/sshremote
+https://github.com/pandesong/rdpconnet
