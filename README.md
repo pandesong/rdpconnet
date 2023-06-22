@@ -1,6 +1,16 @@
 注意：发送邮件到896420681@qq.com 注册使用，后续解决问题新增功能需要注册试用
 注册方法双击打开软件后点击帮助点击点击获取机器码，使用鼠标全部选择粘贴复制后，附上邮件发送给896420681@qq.com
 
+如下图所示
+
+![Image text](picture/zucema.png)
+
+
+
+软件详情
+##  ##
+![Image text](picture/jianjie.gif)
+
 
 
 windows/linux 远程，统一方便管理，在 windows 10下可以正常运行，支持vnc,ssh,rdp
