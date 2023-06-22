@@ -1,3 +1,8 @@
+注意：发送邮件到896420681@qq.com 注册使用，后续解决问题新增功能需要注册试用
+注册方法双击打开软件后点击帮助点击点击获取机器码，使用鼠标全部选择粘贴复制后，附上邮件发送给896420681@qq.com
+
+
+
 windows/linux 远程，统一方便管理，在 windows 10下可以正常运行，支持vnc,ssh,rdp
 
 1、使用前关闭防火墙或开启3389，22端口
@@ -18,4 +23,4 @@ windows/linux 远程，统一方便管理，在 windows 10下可以正常运行�
 https://gitee.com/tianniao2020/sshremote
 https://github.com/pandesong/rdpconnet
 
-github可以百度搜索访问方法，资源更多
+github可以百度搜索访问方法
