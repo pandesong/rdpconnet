@@ -13,7 +13,7 @@
 ![Image text](picture/jianjie.gif)
 
 
-windows/linux 远程，统一方便管理，在 windows 10下可以正常运行，支持vnc,ssh,rdp
+windows/linux 远程，统一方便管理，在 windows 10下可以正常运行，支持vnc,ssh,rdp,telnet
 
 1、使用前关闭防火墙或开启3389，22端口
 
